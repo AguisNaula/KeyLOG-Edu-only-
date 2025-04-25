@@ -1,0 +1,7 @@
+C:\Users\AGI\Desktop\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe.config
+C:\Users\AGI\Desktop\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe
+C:\Users\AGI\Desktop\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.pdb
+C:\Users\AGI\Desktop\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.AssemblyReference.cache
+C:\Users\AGI\Desktop\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.CoreCompileInputs.cache
+C:\Users\AGI\Desktop\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.exe
+C:\Users\AGI\Desktop\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.pdb
